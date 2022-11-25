@@ -1,0 +1,8 @@
+C:\Users\Sergio\Desktop\PG1\diceGame\diceGame\bin\Debug\diceGame.exe.config
+C:\Users\Sergio\Desktop\PG1\diceGame\diceGame\bin\Debug\diceGame.exe
+C:\Users\Sergio\Desktop\PG1\diceGame\diceGame\bin\Debug\diceGame.pdb
+C:\Users\Sergio\Desktop\PG1\diceGame\diceGame\obj\Debug\diceGame.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\PG1\diceGame\diceGame\obj\Debug\diceGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\PG1\diceGame\diceGame\obj\Debug\diceGame.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\PG1\diceGame\diceGame\obj\Debug\diceGame.exe
+C:\Users\Sergio\Desktop\PG1\diceGame\diceGame\obj\Debug\diceGame.pdb
